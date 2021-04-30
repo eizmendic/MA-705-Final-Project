@@ -15,7 +15,9 @@ last 3 years for major currency conversions against the USD.
 Brief description of where/how you got the data and how it was processed.
 
 - http://api.currencylayer.com/
-LIve API to convert USD to 167 other currencies
+Live API to convert USD to 167 other currencies
+Two components were combined in order to create the drop down menu and obtain rates 
+Note: There is a cap on 250 requests
 
 - https://www.ofx.com/en-us/forex-news/historical-exchange-rates/
 Created a CSV in order to get the data, then used it to graph.
