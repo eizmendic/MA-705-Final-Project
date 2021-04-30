@@ -1,1 +1,1 @@
-web: gunicorn boston_universities:server
+web: gunicorn Eizmendi_Final_MA705:server
