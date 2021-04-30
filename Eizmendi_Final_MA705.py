@@ -143,6 +143,7 @@ def update_div(Converted):
     new1 = new['Rate']
     return new1 * 'IUSD'
 
+server = app.server
 
 if __name__ == '__main__':
     app.run_server(debug=True)
