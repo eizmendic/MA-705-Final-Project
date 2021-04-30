@@ -1,1 +1,1 @@
-web: gunicorn Eizmendi_Final_MA705:server
+web: gunicorn App:server
